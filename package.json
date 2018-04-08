@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^5.2.0",
+    "@angular/animations": "^5.2.9",
     "@angular/common": "^5.2.0",
     "@angular/compiler": "^5.2.0",
     "@angular/core": "^5.2.0",
@@ -22,8 +22,19 @@
     "@angular/platform-browser-dynamic": "^5.2.0",
     "@angular/router": "^5.2.0",
     "@angular/service-worker": "^5.2.0",
+    "apollo-angular": "^1.0.1",
+    "apollo-angular-link-http": "^1.0.2",
+    "apollo-cache-inmemory": "^1.1.12",
+    "apollo-client": "^2.2.8",
+    "apollo-link": "^1.2.1",
+    "apollo-link-ws": "^1.0.7",
     "core-js": "^2.4.1",
+    "font-awesome": "^4.7.0",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.8.0",
+    "primeng": "^5.2.4",
     "rxjs": "^5.5.6",
+    "subscriptions-transport-ws": "^0.9.7",
     "zone.js": "^0.8.19"
   },
   "devDependencies": {
